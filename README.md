@@ -6,7 +6,7 @@ The **Weather App** is a user-friendly web application that provides real-time w
 
 ## 🌐 Live Demo
 
-> 🔗 [Visit Project](https://roshandandge25.github.io/WEATHER-APP/)
+> 🔗 [Visit Project](https://roshandandge25.github.io/WETHER-APP/)
 
 ---
 
